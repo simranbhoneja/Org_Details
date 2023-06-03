@@ -1,0 +1,4 @@
+I'm practicing the concept of branching in git!
+
+It's amazing to practice it..
+For the purpose of practice I've created a branch named Prc_branch that means practice branch.
